@@ -18,11 +18,9 @@ Per quanto riguarda gli algoritmi relativi al DMD presenti all'interno della tes
   e caricando, all'inizio del codice, il dataset SRU_l2_l4_Dataset.mat. Il codice esatto termina alla riga 71, mentre le righe successive sono ulteriori plot e controlli
   presenti all'interno della tesi.
   
-  Per quanto riguarda gli algoritmi relativi al SINDy presenti all'interno della tesi:
+Per quanto riguarda gli algoritmi relativi al SINDy presenti all'interno della tesi:
   
-  - Il caso di studio presente al paragrafo 4.1 della tesi è rieseguibile tramite i seguenti algoritmi: CH07_SEC03_SINDY_Lorenz.m, color_line3.m, lorenz.m, poolData.m,
-    poolDataLIST.m, sparseGalerkin.m, sparsifyDynamics.m, runnando CH07_SEC03_SINDY_Lorenz.m.
-  - Il caso di studio presente al paragrafo 4.2 della tesi è rieseguibile tramite i seguenti algoritmi: ProvaSINDy.m, lorenz_c.m, lorenz.m, poolData.m,
-    poolDataLIST.m, sparseGalerkinControl.m, sparsifyDynamics.m, lorenz_d_m.m, lorenz_c_m.m, runnando ProvaSINDy.m.
-    
-    
+ - Il caso di studio presente al paragrafo 4.1 della tesi è rieseguibile tramite i seguenti algoritmi: CH07_SEC03_SINDY_Lorenz.m, color_line3.m, lorenz.m, poolData.m,
+   poolDataLIST.m, sparseGalerkin.m, sparsifyDynamics.m, runnando CH07_SEC03_SINDY_Lorenz.m.
+ - Il caso di studio presente al paragrafo 4.2 della tesi è rieseguibile tramite i seguenti algoritmi: ProvaSINDy.m, lorenz_c.m, lorenz.m, poolData.m,
+   poolDataLIST.m, sparseGalerkinControl.m, sparsifyDynamics.m, lorenz_d_m.m, lorenz_c_m.m, runnando ProvaSINDy.m.
