@@ -72,7 +72,10 @@ if(polyorder>=5)
 end
 
 if(usesine)
+    n1 = size(yin,2);
+    for l=1:n1
     for k=1:10;
-        yout = [yout sin(k*yin) cos(k*yin)];
+        yout = [yout sin(k*yin(:,l)) cos(k*yin(:,l))];
+    end
     end
 end
